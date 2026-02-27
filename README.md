@@ -1,150 +1,99 @@
-<div align="center">
+# ⚡ John Michael Vincent Romero
+### Full-Stack Developer | Computer Engineering Graduate | AI/ML Researcher
 
-<!-- Animated Header gamit ang Capsule Render -->
-
-<img width="100%" src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dvenom%26color%3Dgradient%26customColorList%3D6,11,20%26height%3D200%26section%3Dheader%26text%3DJohn%2520Michael%2520Vincent%2520Romero%26fontSize%3D40%26fontColor%3D00c2cb%26animation%3Dtwinkling%26fontAlignY%3D35%26desc%3DFull-Stack%2520Developer%2520|%20AI/ML%20Researcher&descAlignY=55&descSize=18"/>
-
-<!-- Typing SVG para sa mga dynamic titles -->
-
-<!-- Profile Metrics at Ranking Badges -->
-
-<p>
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Djmvromero%26label%3DProfile%2520Views%26color%3Dblueviolet%26style%3Dfor-the-badge" alt="Profile Views" />
-<img src="https://www.google.com/search?q=https://img.shields.io/github/followers/jmvromero%3Flabel%3DFollowers%26style%3Dfor-the-badge%26color%3Dblueviolet" alt="Followers"/>
-<a href="https://user-badge.committers.top/philippines/jmvromero">
-<img src="https://user-badge.committers.top/philippines/jmvromero.svg" alt="Top Committers Badge" />
-</a>
+<p align="left">
+  <a href="https://user-badge.committers.top/philippines/jmvromero">
+    <img src="https://user-badge.committers.top/philippines/jmvromero.svg" alt="Philippines Rank">
+  </a>
+  
+  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Automation-orange?style=flat-square" alt="Focus">
 </p>
 
-</div>
+---
 
-<!-- About Me Section na may GIF at Code Block Style -->
+## 🚀 About Me
+I am a dedicated **Computer Engineering** graduate currently working as a **Backend Developer**. My work spans from building complex CRM systems to researching machine learning applications.
 
-<img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+- 🎓 **Published Researcher:** CNC & ML PCB Defect Detection.
+- 🛠️ **Current Project:** Developing a backend of web-based implementation of *Legal CRM System*.
+- 🇯🇵 **Personal Growth:** Currently learning n8n and building automation systems.
 
-🧑‍💻 Tungkol sa Akin
+---
 
-const roms = {
-    pronouns: "he" | "him",
-    location: "Pilipinas 🇵🇭",
-    education: "BS Computer Engineering - PUP",
-    research: "CNC & ML PCB Defect Detection",
-    currentlyWorking: "CRM Systems for US Law Firms",
-    learning: ["n8n", "Japanese Language 🇯🇵"],
-    fanOf: "DAY6 🎸"
-};
+## 🛠️ Tech Stack & Infrasturctures
 
+### ⚙️ Backend (The Brains)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Celery](https://img.shields.io/badge/celery-%2337814A.svg?style=for-the-badge&logo=celery&logoColor=white)
+* **Architecture:** Django 6.0 + REST Framework (DRF)
+* **Async Processing:** Celery + Redis for heavy background tasks
+* **Storage:** AWS S3 for secure document handling
 
-<br clear="right"/>
+### 🖥️ Frontend (The Experience)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+* **Framework:** React SPA with TypeScript (.tsx)
+* **State:** Hooks-based management with Browser Storage persistence
+* **UI:** Tailwind-based responsive design
 
-🌐 Tech Stack & Infrastructures
+### 🚀 DevOps & Integrations
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Zapier](https://img.shields.io/badge/Zapier-%23FF4A00.svg?style=for-the-badge&logo=zapier&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
+* **Hosting:** Vercel (Frontend) & Railway (Backend/DB/Redis)
+* **Sync:** Nylas API for Email/Calendar integration
+* **CRM Adapters:** Salesforce, Clio, Filevine, and LawFabric
+* **Automation:** Zapier & n8n
 
-<div align="center">
+## 🤖 Industrial AI & Research (CNC / Computer Vision)
+I developed **InspectMill**, an automated defect detection system for CNC-milled PCBs, bridging the gap between hardware precision and software intelligence.
 
-Kategorya
+### 🔍 Computer Vision Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+* **Model:** YOLOv8 (Ultralytics) for real-time defect classification.
+* **Pipeline:** ORB Feature Matching + Homography Transformation via OpenCV.
+* **Analysis:** Defect logging and visualization using **Pandas** and **Matplotlib**.
 
-Mga Teknolohiya
+### 🏗️ Hardware & CNC Engineering
+![KiCAD](https://img.shields.io/badge/KiCad-31409E?style=for-the-badge&logo=kicad&logoColor=white) ![EasyEDA](https://img.shields.io/badge/EasyEDA-2254F4?style=for-the-badge&logo=easyeda&logoColor=white) ![G-Code](https://img.shields.io/badge/G--Code-444444?style=for-the-badge&logo=codesandbox&logoColor=white)
+* **Design:** PCB layout via KiCAD and EasyEDA.
+* **Control:** bCNC (Tkinter-based GUI) and GRBL Firmware.
+* **Processing:** FlatCAM for G-Code generation and isolation routing.
 
-Backend
+---
 
+## 📈 Streaks
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jmvromero&theme=tokyonight" width="48%" />
+</p>
 
+---
 
-Frontend
+## 📂 Featured Research & Projects
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| **ProtoMill** | Published research on CNC milling using Machine Learning. | Python, ML |
+| **Legal Networks CRM** | Scalable CRM system for US-based legal clients. | Backend |
+| **That's DaMath** | Turning Filipino board game to Unity-based | Unity |
 
+---
 
-
-AI / ML
-
-
-
-DevOps
-
-
-
-</div>
-
-🤖 Industrial AI & Research
-
-Binuo ko ang InspectMill, isang automated defect detection system para sa CNC-milled PCBs, na gumagamit ng custom Computer Vision pipelines.
-
-Detection: YOLOv8 (Ultralytics) para sa real-time defect classification.
-
-Alignment: ORB Feature Matching at Homography Transformation gamit ang OpenCV.
-
-Hardware: GRBL Firmware na may KiCAD at EasyEDA design integration.
-
-Publication: "A Computer Numerical Control for Printed Circuit Board Milling and Drilling with Defect Detection Using Machine Learning" (Philippine Metals 2025).
-
-📊 GitHub Analytics
-
-<div align="center">
-<!-- Stats at Streak Cards -->
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Djmvromero%26show_icons%3Dtrue%26theme%3Dtokyonight%26count_private%3Dtrue" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jmvromero&theme=tokyonight" width="49%" />
-</div>
-
-<!-- Activity Graph -->
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3Djmvromero%26bg_color%3D0D1117%26color%3DA855F7%26line%3DA855F7%26point%3DFFFFFF%26area%3Dtrue%26hide_border%3Dtrue%26custom_title%3DContribution%2520Graph" alt="Activity Graph"/>
-</div>
-
-📂 Featured Projects
-
-Proyekto
-
-Deskripsyon
-
-Tech Stack
-
-Legal CRM
-
-Enterprise SaaS na may Nylas & Zapier automations para sa US Law Firms.
-
-Django, React, AWS
-
-InspectMill
-
-CNC PCB Defect Detection gamit ang OpenCV & Streamlit.
-
-Python, YOLOv8
-
-That's DaMath
-
-Web at Unity implementation ng klasikong Filipino board game.
-
-Unity, C#
-
-🎸 Beyond Engineering
-
-I'm a big fan of DAY6! 🍀
+## 🎸 Beyond Engineering
+I'm a big fan of **DAY6**! 🍀
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/jmvromero/jmvromero/9879160f058f24e3f8efd220bd0b98ff977ff639/Your%20paragraph%20text%20(15).png" width="60%" alt="Day6 Banner" />
+  <img src="https://raw.githubusercontent.com/jmvromero/jmvromero/9879160f058f24e3f8efd220bd0b98ff977ff639/Your%20paragraph%20text%20(15).png" width="60%" />
 </p>
 
-📬 Let's Connect
+---
 
-<div align="center">
-<!-- Iyong LinkedIn Banner -->
-<img src="https://raw.githubusercontent.com/jmvromero/jmvromero/77097bc6eb77fba7a45be08acf8ecb42bd4ce9cd/linkedin%20banner.png" width="100%" alt="LinkedIn Banner" />
+## 📬 Let's Connect
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jmvromero/jmvromero/77097bc6eb77fba7a45be08acf8ecb42bd4ce9cd/linkedin%20banner.png" width="100%" alt="LinkedIn Banner" />
+</p>
 
+<p align="center">
+<a href="mailto:johnmichaelvincentromero0627@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/jmvromero"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.facebook.com/jmvromerooo/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</p>
 
-
-
-
-<a href="mailto:johnmichaelvincentromero0627@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://linkedin.com/in/jmvromero"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://www.facebook.com/jmvromerooo/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-
-</div>
-
-<div align="center">
-
-"If I'm bad at this, why am I still here?"
-
-</div>
-
-<!-- Footer Wave gamit ang Capsule Render -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+---
+<p align="center"><i>"If I'm bad at this, why am I still here?"</i></p>
