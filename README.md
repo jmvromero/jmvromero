@@ -78,8 +78,7 @@ I developed **InspectMill**, an automated defect detection system for CNC-milled
 I'm a big fan of **DAY6**! 🍀
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jmvromero/jmvromero/14f865552a5b194b3d26f5b9e794f57259dac930/Pil%20(15).png" width="45%" />
-  <img src="https://raw.githubusercontent.com/jmvromero/jmvromero/14f865552a5b194b3d26f5b9e794f57259dac930/Pil%20(16).png" width="45%" />
+  <img src="https://raw.githubusercontent.com/jmvromero/jmvromero/9879160f058f24e3f8efd220bd0b98ff977ff639/Your%20paragraph%20text%20(15).png" width="60%" />
 </p>
 <p align="center"><i>"All roads lead to Day6"</i></p>
 
