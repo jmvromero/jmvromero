@@ -95,4 +95,4 @@ I'm a big fan of **DAY6**! 🍀
 </p>
 
 ---
-<p align="center"><i>"Building the future, one commit at a time."</i></p>
+<p align="center"><i>"If I'm bad at this, why am I still here?"</i></p>
