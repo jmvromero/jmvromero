@@ -1,7 +1,9 @@
 # ⚡ John Michael Vincent Romero
 
 <div align="right">
-  <img src="https://img.shields.io/badge/committers.top%20rank-Philippines%20%23184%20(public%20commits)-blue?style=flat-square&logo=github" alt="Rank Badge">
+  <a href="https://user-badge.committers.top/philippines/jmvromero">
+    <img src="https://user-badge.committers.top/philippines/jmvromero.svg" alt="committers.top badge">
+  </a>
 </div>
 
 Hello! I am **Roms**. I am a **Backend Developer** and **Computer Engineering** graduate. I specialize in building scalable web applications and exploring AI/ML fields, specifically focusing on **NLP** and **Object Detection**.
