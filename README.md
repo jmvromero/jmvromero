@@ -39,8 +39,21 @@ I am a dedicated **Computer Engineering** graduate currently working as a **Full
 * **Sync:** Nylas API for Email/Calendar integration
 * **CRM Adapters:** Salesforce, Clio, Filevine, and LawFabric
 
-### 🤖 AI, ML & Database
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+## 🤖 Industrial AI & Research (CNC / Computer Vision)
+I developed **InspectMill**, an automated defect detection system for CNC-milled PCBs, bridging the gap between hardware precision and software intelligence.
+
+### 🔍 Computer Vision Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+* **Model:** YOLOv8 (Ultralytics) for real-time defect classification.
+* **Pipeline:** ORB Feature Matching + Homography Transformation via OpenCV.
+* **Analysis:** Defect logging and visualization using **Pandas** and **Matplotlib**.
+
+### 🏗️ Hardware & CNC Engineering
+![KiCAD](https://img.shields.io/badge/KiCad-31409E?style=for-the-badge&logo=kicad&logoColor=white) ![EasyEDA](https://img.shields.io/badge/EasyEDA-2254F4?style=for-the-badge&logo=easyeda&logoColor=white) ![G-Code](https://img.shields.io/badge/G--Code-444444?style=for-the-badge&logo=codesandbox&logoColor=white)
+* **Design:** PCB layout via KiCAD and EasyEDA.
+* **Control:** bCNC (Tkinter-based GUI) and GRBL Firmware.
+* **Processing:** FlatCAM for G-Code generation and isolation routing.
 
 ---
 
