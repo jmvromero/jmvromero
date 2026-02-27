@@ -58,7 +58,7 @@ I developed **InspectMill**, an automated defect detection system for CNC-milled
 
 ---
 
-## 📈 Engineering Impact
+## 📈 Streaks
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jmvromero&theme=tokyonight" width="48%" />
 </p>
