@@ -85,6 +85,10 @@ I'm a big fan of **DAY6**! 🍀
 ---
 
 ## 📬 Let's Connect
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jmvromero/jmvromero/77097bc6eb77fba7a45be08acf8ecb42bd4ce9cd/linkedin%20banner.png" width="100%" alt="LinkedIn Banner" />
+</p>
+
 <p align="left">
 <a href="mailto:johnmichaelvincentromero0627@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
