@@ -74,6 +74,17 @@ I developed **InspectMill**, an automated defect detection system for CNC-milled
 
 ---
 
+## 🎸 Beyond Engineering
+I'm a big fan of **DAY6**! 🍀
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jmvromero/jmvromero/14f865552a5b194b3d26f5b9e794f57259dac930/Pil%20(15).png" width="45%" />
+  <img src="https://raw.githubusercontent.com/jmvromero/jmvromero/14f865552a5b194b3d26f5b9e794f57259dac930/Pil%20(16).png" width="45%" />
+</p>
+<p align="center"><i>"All roads lead to Day6"</i></p>
+
+---
+
 ## 📬 Let's Connect
 <p align="left">
 <a href="mailto:johnmichaelvincentromero0627@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
