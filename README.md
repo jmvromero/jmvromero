@@ -5,7 +5,7 @@
   <a href="https://user-badge.committers.top/philippines/jmvromero">
     <img src="https://user-badge.committers.top/philippines/jmvromero.svg" alt="Philippines Rank">
   </a>
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20NLP-orange?style=flat-square" alt="Focus">
+  <img src="https://img.shields.io/badge/Focus-Back-End%20%26%20Automation-orange?style=flat-square" alt="Focus">
 </p>
 
 ---
