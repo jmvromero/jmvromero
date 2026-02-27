@@ -34,10 +34,11 @@ I am a dedicated **Computer Engineering** graduate currently working as a **Full
 * **UI:** Tailwind-based responsive design
 
 ### 🚀 DevOps & Integrations
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Zapier](https://img.shields.io/badge/Zapier-%23FF4A00.svg?style=for-the-badge&logo=zapier&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Zapier](https://img.shields.io/badge/Zapier-%23FF4A00.svg?style=for-the-badge&logo=zapier&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
 * **Hosting:** Vercel (Frontend) & Railway (Backend/DB/Redis)
 * **Sync:** Nylas API for Email/Calendar integration
 * **CRM Adapters:** Salesforce, Clio, Filevine, and LawFabric
+* **Automation:** Zapier & n8n
 
 ## 🤖 Industrial AI & Research (CNC / Computer Vision)
 I developed **InspectMill**, an automated defect detection system for CNC-milled PCBs, bridging the gap between hardware precision and software intelligence.
