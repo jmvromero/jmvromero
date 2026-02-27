@@ -31,7 +31,6 @@ I am a dedicated **Computer Engineering** graduate currently working as a **Full
 
 ## 📈 Engineering Impact
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jmvromero&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jmvromero&theme=tokyonight" width="48%" />
 </p>
 
