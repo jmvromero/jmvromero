@@ -12,7 +12,7 @@
 ---
 
 ## 🚀 About Me
-I am a dedicated **Computer Engineering** graduate currently working as a **Full-Stack Developer**. My work spans from building complex CRM systems to researching machine learning applications.
+I am a dedicated **Computer Engineering** graduate currently working as a **Backend Developer**. My work spans from building complex CRM systems to researching machine learning applications.
 
 - 🎓 **Published Researcher:** CNC & ML PCB Defect Detection.
 - 🛠️ **Current Project:** Developing a backend of web-based implementation of *Legal CRM System*.
