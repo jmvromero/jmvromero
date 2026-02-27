@@ -67,13 +67,12 @@ I developed **InspectMill**, an automated defect detection system for CNC-milled
 ---
 
 ## 📂 Featured Research & Projects
-<p align="center">
 | Project | Description | Tech |
 | :--- | :--- | :--- |
 | **ProtoMill** | Published research on CNC milling using Machine Learning. | Python, ML |
 | **Legal Networks CRM** | Scalable CRM system for US-based legal clients. | Backend |
 | **That's DaMath** | Turning Filipino board game to Unity-based | Unity |
-</p>
+
 ---
 
 ## 🎸 Beyond Engineering
