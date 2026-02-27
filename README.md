@@ -11,11 +11,11 @@
 ---
 
 ## 🚀 About Me
-I am a dedicated **Computer Engineering** graduate currently working as a **Full-Stack Developer**. My work spans from building complex CRM systems to researching machine learning applications in industrial defect detection. 
+I am a dedicated **Computer Engineering** graduate currently working as a **Full-Stack Developer**. My work spans from building complex CRM systems to researching machine learning applications.
 
-- 🎓 **Published Researcher:** Expert in CNC & ML Defect Detection.
-- 🛠️ **Current Project:** Developing a web-based implementation of *Damath*.
-- 🇯🇵 **Personal Growth:** Currently learning Japanese and building K-pop tech content.
+- 🎓 **Published Researcher:** CNC & ML PCB Defect Detection.
+- 🛠️ **Current Project:** Developing a backend of web-based implementation of *Legal CRM System*.
+- 🇯🇵 **Personal Growth:** Currently learning n8n and building automation systems.
 
 ---
 
@@ -40,9 +40,9 @@ I am a dedicated **Computer Engineering** graduate currently working as a **Full
 ## 📂 Featured Research & Projects
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| **ML Defect Detection** | Published research on CNC milling using Machine Learning. | Python, ML |
-| **Law Firm CRM** | Scalable CRM system for US-based legal clients. | Full-Stack |
-| **Iskobot** | UI/API automation and utility tools. | TypeScript |
+| **ProtoMill** | Published research on CNC milling using Machine Learning. | Python, ML |
+| **Legal Networks CRM** | Scalable CRM system for US-based legal clients. | Backend |
+| **That's DaMath** | Turning Filipino board game to Unity-based | Unity |
 
 ---
 
