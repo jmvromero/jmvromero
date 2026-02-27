@@ -80,7 +80,6 @@ I'm a big fan of **DAY6**! 🍀
 <p align="center">
   <img src="https://raw.githubusercontent.com/jmvromero/jmvromero/9879160f058f24e3f8efd220bd0b98ff977ff639/Your%20paragraph%20text%20(15).png" width="60%" />
 </p>
-<p align="center"><i>"All roads lead to Day6"</i></p>
 
 ---
 
