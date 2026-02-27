@@ -6,7 +6,7 @@
   </a>
 </div>
 
-Hello! I am **Roms**. I am a **Backend Developer** and **Computer Engineering** graduate. I specialize in building scalable web applications and exploring AI/ML fields, specifically focusing on **NLP** and **Object Detection**.
+Hello! I am **Roms**. I am a **Backend Developer** and **Computer Engineering** graduate. I specialize in building scalable web applications and exploring AI/ML fields, specifically focusing on **Object Detection**.
 
 ---
 
