@@ -11,16 +11,21 @@
 
 ---
 
-## 🚀 About Me
+<details>
+<summary><h2>🚀 About Me</h2></summary>
+
 I am a dedicated **Computer Engineering** graduate currently working as a **Backend Developer**. My work spans from building complex CRM systems to researching machine learning applications.
 
 - 🎓 **Published Researcher:** CNC & ML PCB Defect Detection.
 - 🛠️ **Current Project:** Developing a backend of web-based implementation of *Legal CRM System*.
 - 🇯🇵 **Personal Growth:** Currently learning n8n and building automation systems.
 
+</details>
+
 ---
 
-## 🛠️ Tech Stack & Infrasturctures
+<details>
+<summary><h2>🛠️ Tech Stack & Infrasturctures</h2></summary>
 
 ### ⚙️ Backend (The Brains)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Celery](https://img.shields.io/badge/celery-%2337814A.svg?style=for-the-badge&logo=celery&logoColor=white)
@@ -41,7 +46,13 @@ I am a dedicated **Computer Engineering** graduate currently working as a **Back
 * **CRM Adapters:** Salesforce, Clio, Filevine, and LawFabric
 * **Automation:** Zapier & n8n
 
-## 🤖 Industrial AI & Research (CNC / Computer Vision)
+</details>
+
+---
+
+<details>
+<summary><h2>🤖 Industrial AI & Research (CNC / Computer Vision)</h2></summary>
+
 I developed **InspectMill**, an automated defect detection system for CNC-milled PCBs, bridging the gap between hardware precision and software intelligence.
 
 ### 🔍 Computer Vision Stack
@@ -57,34 +68,50 @@ I developed **InspectMill**, an automated defect detection system for CNC-milled
 * **Control:** bCNC (Tkinter-based GUI) and GRBL Firmware.
 * **Processing:** FlatCAM for G-Code generation and isolation routing.
 
+</details>
+
 ---
 
-## 📈 Streaks
+<details>
+<summary><h2>📈 Streaks</h2></summary>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jmvromero&theme=tokyonight" width="48%" />
 </p>
 
+</details>
+
 ---
 
-## 📂 Featured Research & Projects
+<details>
+<summary><h2>📂 Featured Research & Projects</h2></summary>
+
 | Project | Description | Tech |
 | :--- | :--- | :--- |
 | **ProtoMill** | Published research on CNC milling using Machine Learning. | Python, ML |
 | **Legal Networks CRM** | Scalable CRM system for US-based legal clients. | Backend |
 | **That's DaMath** | Turning Filipino board game to Unity-based | Unity |
 
+</details>
+
 ---
 
-## 🎸 Beyond Engineering
+<details>
+<summary><h2>🎸 Beyond Engineering</h2></summary>
+
 I'm a big fan of **DAY6**! 🍀
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jmvromero/jmvromero/9879160f058f24e3f8efd220bd0b98ff977ff639/Your%20paragraph%20text%20(15).png" width="60%" />
 </p>
 
+</details>
+
 ---
 
-## 📬 Let's Connect
+<details>
+<summary><h2>📬 Let's Connect</h2></summary>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/jmvromero/jmvromero/77097bc6eb77fba7a45be08acf8ecb42bd4ce9cd/linkedin%20banner.png" width="100%" alt="LinkedIn Banner" />
 </p>
@@ -94,6 +121,8 @@ I'm a big fan of **DAY6**! 🍀
 <a href="https://linkedin.com/in/jmvromero"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.facebook.com/jmvromerooo/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
+
+</details>
 
 ---
 <p align="center"><i>"If I'm bad at this, why am I still here?"</i></p>
